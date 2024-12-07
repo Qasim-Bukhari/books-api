@@ -1,0 +1,28 @@
+export const books = [
+    { id: 1, title: "To Kill a Mockingbird", author: "Harper Lee" },
+    { id: 2, title: "1984", author: "George Orwell" },
+    { id: 3, title: "The Great Gatsby", author: "F. Scott Fitzgerald" },
+    { id: 4, title: "Pride and Prejudice", author: "Jane Austen" },
+    { id: 5, title: "The Catcher in the Rye", author: "J.D. Salinger" },
+    { id: 6, title: "Moby-Dick", author: "Herman Melville" },
+    { id: 7, title: "War and Peace", author: "Leo Tolstoy" },
+    { id: 8, title: "The Odyssey", author: "Homer" },
+    { id: 9, title: "Brave New World", author: "Aldous Huxley" },
+    { id: 10, title: "Jane Eyre", author: "Charlotte Brontë" },
+    { id: 11, title: "Wuthering Heights", author: "Emily Brontë" },
+    { id: 12, title: "The Lord of the Rings", author: "J.R.R. Tolkien" },
+    { id: 13, title: "Crime and Punishment", author: "Fyodor Dostoevsky" },
+    { id: 14, title: "The Hobbit", author: "J.R.R. Tolkien" },
+    { id: 15, title: "Anna Karenina", author: "Leo Tolstoy" },
+    { id: 16, title: "The Picture of Dorian Gray", author: "Oscar Wilde" },
+    { id: 17, title: "Les Misérables", author: "Victor Hugo" },
+    { id: 18, title: "Frankenstein", author: "Mary Shelley" },
+    { id: 19, title: "Dracula", author: "Bram Stoker" },
+    { id: 20, title: "The Alchemist", author: "Paulo Coelho" },
+    { id: 21, title: "The Brothers Karamazov", author: "Fyodor Dostoevsky" },
+    { id: 22, title: "Great Expectations", author: "Charles Dickens" },
+    { id: 23, title: "Alice's Adventures in Wonderland", author: "Lewis Carroll" },
+    { id: 24, title: "The Kite Runner", author: "Khaled Hosseini" },
+    { id: 25, title: "Don Quixote", author: "Miguel de Cervantes" }
+];
+  
